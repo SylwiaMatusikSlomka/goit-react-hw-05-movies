@@ -1,0 +1,14 @@
+.paragraph {
+  text-align: center;
+}
+.listReviev {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0 auto;
+}
+.listRevievItem {
+  padding: 1rem;
+  margin: 0 auto;
+}

@@ -1,0 +1,16 @@
+.movieList {
+  list-style: none;
+  padding: 1rem;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.movieList-item {
+  padding: 1rem;
+  margin: 0;
+}
+.movieLink {
+  text-decoration: none;
+}
